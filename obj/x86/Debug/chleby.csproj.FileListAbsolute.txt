@@ -1,0 +1,9 @@
+C:\Users\ghol3\Desktop\chleby\chleby\bin\Debug\chleby.exe
+C:\Users\ghol3\Desktop\chleby\chleby\bin\Debug\chleby.pdb
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\chleby.Form1.resources
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\chleby.Properties.Resources.resources
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\chleby.exe
+C:\Users\ghol3\Desktop\chleby\chleby\obj\x86\Debug\chleby.pdb
